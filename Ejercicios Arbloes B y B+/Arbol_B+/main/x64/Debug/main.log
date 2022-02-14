@@ -1,0 +1,32 @@
+﻿  main.cpp
+C:\Users\USUARIO\Desktop\GitHub Ejercicios\Grupo4_7166\Unidad 2\Ejercicios Arbloes B y B+\Arbol_B+\main\b-plus.h(196,1): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\USUARIO\Desktop\GitHub Ejercicios\Grupo4_7166\Unidad 2\Ejercicios Arbloes B y B+\Arbol_B+\main\b-plus.h(144): message : al compilar la función del miembro clase plantilla "void BLinkTree<3,int>::remove(const int &)"
+C:\Users\USUARIO\Desktop\GitHub Ejercicios\Grupo4_7166\Unidad 2\Ejercicios Arbloes B y B+\Arbol_B+\main\main.cpp(42): message : Vea la referencia a la creación de una instancia de la función plantilla "void BLinkTree<3,int>::remove(const int &)" que se está compilando
+C:\Users\USUARIO\Desktop\GitHub Ejercicios\Grupo4_7166\Unidad 2\Ejercicios Arbloes B y B+\Arbol_B+\main\main.cpp(14): message : Vea la referencia a la creación de una instancia de clase plantilla "BLinkTree<3,int>" que se está compilando
+C:\Users\USUARIO\Desktop\GitHub Ejercicios\Grupo4_7166\Unidad 2\Ejercicios Arbloes B y B+\Arbol_B+\main\b-plus.h(97,1): warning C4267: 'inicializando': conversión de 'size_t' a 'short'; posible pérdida de datos
+C:\Users\USUARIO\Desktop\GitHub Ejercicios\Grupo4_7166\Unidad 2\Ejercicios Arbloes B y B+\Arbol_B+\main\b-plus.h(65): message : al compilar la función del miembro clase plantilla "void BLinkTree<3,int>::insert(const int &)"
+C:\Users\USUARIO\Desktop\GitHub Ejercicios\Grupo4_7166\Unidad 2\Ejercicios Arbloes B y B+\Arbol_B+\main\main.cpp(26): message : Vea la referencia a la creación de una instancia de la función plantilla "void BLinkTree<3,int>::insert(const int &)" que se está compilando
+C:\Users\USUARIO\Desktop\GitHub Ejercicios\Grupo4_7166\Unidad 2\Ejercicios Arbloes B y B+\Arbol_B+\main\b-plus.h(368,1): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\USUARIO\Desktop\GitHub Ejercicios\Grupo4_7166\Unidad 2\Ejercicios Arbloes B y B+\Arbol_B+\main\b-plus.h(328): message : al compilar la función del miembro clase plantilla "void BLinkTree<3,int>::removeAuxFunction(int,BLinkNode<3,Type> *)"
+          with
+          [
+              Type=int
+          ]
+C:\Users\USUARIO\Desktop\GitHub Ejercicios\Grupo4_7166\Unidad 2\Ejercicios Arbloes B y B+\Arbol_B+\main\b-plus.h(233): message : Vea la referencia a la creación de una instancia de la función plantilla "void BLinkTree<3,int>::removeAuxFunction(int,BLinkNode<3,Type> *)" que se está compilando
+          with
+          [
+              Type=int
+          ]
+C:\Users\USUARIO\Desktop\GitHub Ejercicios\Grupo4_7166\Unidad 2\Ejercicios Arbloes B y B+\Arbol_B+\main\b-plus.h(370,1): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\USUARIO\Desktop\GitHub Ejercicios\Grupo4_7166\Unidad 2\Ejercicios Arbloes B y B+\Arbol_B+\main\b-plus.h(274,1): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\USUARIO\Desktop\GitHub Ejercicios\Grupo4_7166\Unidad 2\Ejercicios Arbloes B y B+\Arbol_B+\main\b-plus.h(268): message : al compilar la función del miembro clase plantilla "void BLinkTree<3,int>::insertAuxFunction(int,BLinkNode<3,Type> *,BLinkNode<3,Type> *)"
+          with
+          [
+              Type=int
+          ]
+C:\Users\USUARIO\Desktop\GitHub Ejercicios\Grupo4_7166\Unidad 2\Ejercicios Arbloes B y B+\Arbol_B+\main\b-plus.h(139): message : Vea la referencia a la creación de una instancia de la función plantilla "void BLinkTree<3,int>::insertAuxFunction(int,BLinkNode<3,Type> *,BLinkNode<3,Type> *)" que se está compilando
+          with
+          [
+              Type=int
+          ]
+  main.vcxproj -> C:\Users\USUARIO\Desktop\GitHub Ejercicios\Grupo4_7166\Unidad 2\Ejercicios Arbloes B y B+\Arbol_B+\x64\Debug\main.exe
