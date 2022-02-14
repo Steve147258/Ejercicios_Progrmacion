@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\hp\Documents\Carpeta de Nando\ESTRUCTURA DE DATOS\Parcial 3\Arbol binario\Arbol binario\Arbol.h(80): warning C4715: 'Arbol::buscar': no todas las rutas de acceso de control devuelven un valor
+  Arbol binario.vcxproj -> C:\Users\hp\Documents\Carpeta de Nando\ESTRUCTURA DE DATOS\Parcial 3\Arbol binario\x64\Debug\Arbol binario.exe
